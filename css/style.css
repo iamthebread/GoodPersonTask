@@ -1,0 +1,50 @@
+body {
+    background-color: #ceffd8;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #66da8d;
+    max-width: auto;
+    height: auto;
+    border-radius: 15px;
+}
+
+    .topnav a {
+        float: left;
+        color: #002e15;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        width: 48%;
+        border-radius: 15px;
+        font-size: 17px
+        
+    }
+        .topnav a:hover {
+            background-color: #002e15;
+            color: #2fb15a;
+        }
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div.textbox {
+    background-color: #66da8d;
+    border-radius: 60px;
+}
+
+img.me {
+    border-radius: 100%;
+}
+
+img.auckland {
+    border-radius: 20px;
+}
